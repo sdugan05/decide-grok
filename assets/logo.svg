@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Decide">
+  <rect width="256" height="256" rx="56" fill="#141916"/>
+  <rect x="54" y="38" width="148" height="180" rx="22" fill="#f4f5ef"/>
+  <path d="m88 131 27 27 54-64" fill="none" stroke="#23844a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

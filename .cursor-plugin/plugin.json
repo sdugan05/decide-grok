@@ -1,0 +1,11 @@
+{
+  "name": "decide",
+  "version": "0.1.0-alpha.1",
+  "description": "Review-only preview: a native Yes/No approval deck for scoped Grok document reports. Consumer wake pairing is not yet available.",
+  "author": {"name": "Saul Dugan", "email": "saul@nixnux.org"},
+  "homepage": "https://github.com/sdugan05/decide-grok",
+  "repository": "https://github.com/sdugan05/decide-grok",
+  "license": "MIT",
+  "keywords": ["decide", "approvals", "documents"],
+  "logo": "assets/logo.svg"
+}
