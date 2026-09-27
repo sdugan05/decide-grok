@@ -12,7 +12,7 @@ The approved document's text is provided to the connected Grok account for the
 bounded extraction. Grok returns references to selected lines; Decide resolves
 them from its saved snapshot and independently reads the current Google source.
 Supabase stores application state; Composio mediates the application's Google
-connection. The deployed hosting provider will process server requests. Private
+connection. Render hosts the MCP listener and processes its server requests. Private
 Google credentials and native person-session tokens are not given to the Bot.
 
 Results and receipts survive disconnect. Disconnect prevents further Decide

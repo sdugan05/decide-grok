@@ -8,7 +8,7 @@ consumer marketplace submission.
 | Package-only repository, manifest, MCP definition, skill, icon, MIT license | Prepared |
 | Provider OAuth and exact native approval | Verified in the development application; not a fresh package install |
 | Lossless source references and independent verification | Verified in the development application |
-| Stable public runtime | Must be deployed and verified |
+| Stable public runtime | MCP listener deployed; TLS and public HTTP boundary verified. Consumer API/worker and fresh OAuth installation still pending. |
 | No-copy per-user wake pairing | Blocked on supported provider contract |
 | Fresh person/source onboarding | Not verified |
 | Two real authorized people and bidirectional isolation | Pending second person and supported installation |

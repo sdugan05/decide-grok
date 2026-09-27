@@ -13,8 +13,9 @@ establish fresh-user installation, two-user isolation, or a marketplace listing.
 
 This repository contains only the integration manifest, remote MCP configuration,
 one skill, icon, license and review guidance. Application code, credentials,
-private records and evidence are excluded. The configured stable endpoint is the
-intended deployment destination; endpoint configuration is not deployment proof.
+private records and evidence are excluded. The MCP listener is deployed at
+`https://decide.sauldugan.com/mcp`; TLS and public authentication boundaries have
+been checked. Hosted consumer onboarding and routine execution remain unverified.
 
 - [Installation status and intended flow](INSTALLATION.md)
 - [Data handling and limits](DATA-HANDLING.md)
